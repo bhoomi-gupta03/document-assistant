@@ -1,0 +1,5 @@
+Python is a high-level programming language. It is widely used for web development, automation and data science.
+
+FastAPI is a modern Python web framework. It is built for creating REST APIs quickly. FastAPI generates interactive documentation automatically.
+
+SQLite is a lightweight database stored in a single file. It needs no separate server, so it is ideal for small projects.
